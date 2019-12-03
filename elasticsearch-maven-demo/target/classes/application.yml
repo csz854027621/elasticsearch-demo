@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch    #集群的服务名
+      cluster-nodes: 192.168.229.140:9300  #集群的端口号
